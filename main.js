@@ -3,20 +3,20 @@ let go = document.querySelector(".ser");
 
 go.onclick = function get() {
   
-  if (go.style.bottom == "-100%") {
+  if (go.style.bottom == "-90%") {
     go.style.bottom = "0";
   } else {
-    go.style.bottom = "-100%";
+    go.style.bottom = "-90%";
   }
   
 }
 
 up.onclick = function get() {
   
-  if (go.style.bottom == "-100%") {
+  if (go.style.bottom == "-90%") {
     go.style.bottom = "0";
   } else {
-    go.style.bottom = "-100%";
+    go.style.bottom = "-90%";
   }
   
   let code = document.querySelector(".code");
