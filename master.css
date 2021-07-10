@@ -11,6 +11,10 @@
   border-radius: 5px;
   user-select: none;
 }
+.gen:hover {
+  background-color: rgb(77,144,255);
+  border: 3px solid rgba(101,156,248,0.9);
+}
 .ser {
   position: fixed;
   bottom: -100%;
