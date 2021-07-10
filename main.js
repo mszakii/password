@@ -21,7 +21,7 @@ up.onclick = function get() {
   
   let code = document.querySelector(".code");
   
-  let car = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$_&*?%"
+  let car = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@@##$$__&&**??%%"
   ;
   let count = 24;
   let serial = "";
